@@ -129,6 +129,7 @@ public class playersControler : MonoBehaviour
         
     }
 
+    //logica para animação de morte
     public float effectTime = 0.1f;
     IEnumerator takeDamageEffect()
     {
